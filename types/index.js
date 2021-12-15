@@ -1,0 +1,2 @@
+export const ELIMINAR_TAREA = 'ELIMINAR_TAREA'
+export const NUEVA_TAREA = 'NUEVA_TAREA'
